@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "utdrplushies:block/ceroba_plush"
+    },
+    "facing=east": {
+      "model": "utdrplushies:block/ceroba_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "utdrplushies:block/ceroba_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "utdrplushies:block/ceroba_plush",
+      "y": 270
+    }
+  }
+}

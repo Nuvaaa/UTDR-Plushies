@@ -1,0 +1,7 @@
+{
+  "selector": "#utdrplushies:plushies",
+
+  "properties": {
+    "sable:mass": 0.25
+  }
+}

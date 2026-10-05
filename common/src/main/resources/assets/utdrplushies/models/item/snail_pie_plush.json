@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "utdrplushies:item/snail_pie_plush"
+  }
+}

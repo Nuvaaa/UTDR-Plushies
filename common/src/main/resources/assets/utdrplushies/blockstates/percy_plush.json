@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "utdrplushies:block/percy_plush"
+    },
+    "facing=east": {
+      "model": "utdrplushies:block/percy_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "utdrplushies:block/percy_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "utdrplushies:block/percy_plush",
+      "y": 270
+    }
+  }
+}
