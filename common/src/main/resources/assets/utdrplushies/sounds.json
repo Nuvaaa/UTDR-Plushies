@@ -5,20 +5,26 @@
       "utdrplushies:plush_squish"
     ]
   },
-  "pink_squish": {
-    "subtitle": "sounds.utdrplushies.pink_squish",
+  "lancer_squish": {
+    "subtitle": "sounds.utdrplushies.lancer_squish",
     "sounds": [
-      "utdrplushies:snd_pink_laugh_short",
-      "utdrplushies:snd_pink_mew",
-      "utdrplushies:snd_pink_throw",
-      "utdrplushies:snd_pink_throw2",
-      "utdrplushies:snd_pink_trip"
+      "utdrplushies:snd_splat"
     ]
   },
-  "tenna_death": {
-    "subtitle": "sounds.utdrplushies.tenna_death",
+  "queen_squish": {
+    "subtitle": "sounds.utdrplushies.queen_squish",
     "sounds": [
-      "utdrplushies:tenna_death"
+      "utdrplushies:snd_queen_bandicoot",
+      "utdrplushies:snd_queen_dizzy",
+      "utdrplushies:snd_queen_gasp",
+      "utdrplushies:snd_queen_hoot_1",
+      "utdrplushies:snd_queen_hoot_2",
+      "utdrplushies:snd_queen_laugh_0",
+      "utdrplushies:snd_queen_laugh_1",
+      "utdrplushies:snd_queen_pirouette",
+      "utdrplushies:snd_queen_woah",
+      "utdrplushies:snd_queen_woo",
+      "utdrplushies:snd_queenhowl_b"
     ]
   },
   "tenna_squish": {
@@ -33,6 +39,22 @@
       "utdrplushies:snd_tv_voice_short_8",
       "utdrplushies:snd_tv_voice_short_9",
       "utdrplushies:snd_tv_voice_short_10"
+    ]
+  },
+  "tenna_death": {
+    "subtitle": "sounds.utdrplushies.tenna_death",
+    "sounds": [
+      "utdrplushies:tenna_death"
+    ]
+  },
+  "pink_squish": {
+    "subtitle": "sounds.utdrplushies.pink_squish",
+    "sounds": [
+      "utdrplushies:snd_pink_laugh_short",
+      "utdrplushies:snd_pink_mew",
+      "utdrplushies:snd_pink_throw",
+      "utdrplushies:snd_pink_throw2",
+      "utdrplushies:snd_pink_trip"
     ]
   },
   "flowery_squish": {

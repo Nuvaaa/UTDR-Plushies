@@ -14,6 +14,7 @@
   "block.utdrplushies.kris_plush": "Kris Plush",
   "block.utdrplushies.ralsei_plush": "Ralsei Plush",
   "block.utdrplushies.susie_plush": "Susie Plush",
+  "block.utdrplushies.lancer_plush": "Lancer Plush",
   "block.utdrplushies.queen_plush": "Queen Plush",
   "block.utdrplushies.tenna_plush": "Tenna Plush",
   "block.utdrplushies.armless_tenna_plush": "Armless Tenna Plush",
@@ -46,8 +47,10 @@
   "tooltip.utdrplushies.black_knife": "§8Has special interactions with some plushies",
 
   "sounds.utdrplushies.plushie_squish": "Plushie squeaks",
-  "sounds.utdrplushies.pink_squish": "Pink noise",
+  "sounds.utdrplushies.lancer_squish": "Lancer noise",
+  "sounds.utdrplushies.queen_squish": "Queen noise",
   "sounds.utdrplushies.tenna_squish": "Tenna noise",
   "sounds.utdrplushies.tenna_death": "Tenna dies",
+  "sounds.utdrplushies.pink_squish": "Pink noise",
   "sounds.utdrplushies.flowery_squish": "Flowery noise"
 }

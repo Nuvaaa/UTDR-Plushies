@@ -14,11 +14,12 @@ public class ModSounds {
             DeferredRegister.create(BuiltInRegistries.SOUND_EVENT, UTDRPlushies.MODID);
 
     public static final Supplier<SoundEvent> PLUSHIE_SQUISH = registerSoundEvent("plushie_squish");
-    public static final Supplier<SoundEvent> PINK_SQUISH = registerSoundEvent("pink_squish");
+    public static final Supplier<SoundEvent> LANCER_SQUISH = registerSoundEvent("lancer_squish");
+    public static final Supplier<SoundEvent> QUEEN_SQUISH = registerSoundEvent("queen_squish");
     public static final Supplier<SoundEvent> TENNA_SQUISH = registerSoundEvent("tenna_squish");
-    public static final Supplier<SoundEvent> FLOWERY_SQUISH = registerSoundEvent("flowery_squish");
-
     public static final Supplier<SoundEvent> TENNA_DEATH = registerSoundEvent("tenna_death");
+    public static final Supplier<SoundEvent> PINK_SQUISH = registerSoundEvent("pink_squish");
+    public static final Supplier<SoundEvent> FLOWERY_SQUISH = registerSoundEvent("flowery_squish");
 
     private static Supplier<SoundEvent> registerSoundEvent(String name) {
         ResourceLocation id = ResourceLocation.fromNamespaceAndPath(UTDRPlushies.MODID, name);

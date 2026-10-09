@@ -28,6 +28,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.KRIS_PLUSH);
                         output.accept(ModBlocks.SUSIE_PLUSH);
                         output.accept(ModBlocks.RALSEI_PLUSH);
+                        output.accept(ModBlocks.LANCER_PLUSH);
                         output.accept(ModBlocks.QUEEN_PLUSH);
                         output.accept(ModBlocks.BATTERY_ACID_PIE_PLUSH);
                         output.accept(ModBlocks.TENNA_PLUSH);

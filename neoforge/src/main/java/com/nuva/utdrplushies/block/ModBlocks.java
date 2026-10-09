@@ -74,9 +74,13 @@ public class ModBlocks {
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
                     ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.dr"));
 
+    public static final DeferredBlock<Block> LANCER_PLUSH = registerBlock("lancer_plush",
+            () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
+                    ModSounds.LANCER_SQUISH.get(), "tooltip.utdrplushies.drch1"));
+
     public static final DeferredBlock<Block> QUEEN_PLUSH = registerBlock("queen_plush",
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
-                    ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.drch2"));
+                    ModSounds.QUEEN_SQUISH.get(), "tooltip.utdrplushies.drch2"));
 
     public static final DeferredBlock<Block> BATTERY_ACID_PIE_PLUSH = registerBlock("battery_acid_pie_plush",
             () -> new Pie(BlockBehaviour.Properties.of().sound(SoundType.WOOL).destroyTime(0.2f)) {
@@ -97,7 +101,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> ARMLESS_TENNA_PLUSH = registerBlock("armless_tenna_plush",
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
-                    ModSounds.TENNA_SQUISH.get(), "tooltip.utdrplushies.drch3"));
+                    null, "tooltip.utdrplushies.drch3"));
 
     public static final DeferredBlock<Block> FLOWERY_PLUSH = registerBlock("flowery_plush",
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
