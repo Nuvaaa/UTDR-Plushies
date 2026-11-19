@@ -143,6 +143,18 @@ public class ModBlocks {
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
                     ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.uty"));
 
+    public static final DeferredBlock<Block> DALV_PLUSH = registerBlock("dalv_plush",
+            () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
+                    ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.uty"));
+
+    public static final DeferredBlock<Block> MARTLET_PLUSH = registerBlock("martlet_plush",
+            () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
+                    ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.uty"));
+
+    public static final DeferredBlock<Block> STARLO_PLUSH = registerBlock("starlo_plush",
+            () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
+                    ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.uty"));
+
     public static final DeferredBlock<Block> CEROBA_PLUSH = registerBlock("ceroba_plush",
             () -> new Plush(BlockBehaviour.Properties.of().sound(SoundType.WOOL).noOcclusion().destroyTime(0.2f),
                     ModSounds.PLUSHIE_SQUISH.get(), "tooltip.utdrplushies.uty"));

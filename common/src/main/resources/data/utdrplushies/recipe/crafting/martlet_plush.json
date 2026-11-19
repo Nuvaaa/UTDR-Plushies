@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "minecraft:wooden_axe"
+    }
+  ],
+  "result": {
+    "id": "utdrplushies:martlet_plush"
+  }
+}

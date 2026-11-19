@@ -43,6 +43,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PINK_PLUSH);
                         output.accept(ModBlocks.GHOST_PLUSH);
                         output.accept(ModBlocks.CLOVER_PLUSH);
+                        output.accept(ModBlocks.DALV_PLUSH);
+                        output.accept(ModBlocks.MARTLET_PLUSH);
+                        output.accept(ModBlocks.STARLO_PLUSH);
                         output.accept(ModBlocks.CEROBA_PLUSH);
                         output.accept(ModBlocks.AVERY_PLUSH);
                         output.accept(ModBlocks.CINDER_PLUSH);
